@@ -30,7 +30,7 @@
 }
 
 .portfolio-website-home {
-    background-color:#77c5df;
+    background-color:hwb(267 85% 6%);
 }
 
 .portfolio-image {
@@ -41,7 +41,7 @@
 .portfolio-website-home-mainheading {
     font-family: roboto;
     font-size: 50px;
-    color: #ffffff;
+    color: #aa1c1c;
 }
 
 .name {
@@ -49,12 +49,12 @@
 }
 
 .portfolio-website-home-description {
-    color: #a9e0f7;
+    color: #da3248;
     font-size: 32px;
     font-family: roboto;
 }
 .portfolio-website-home-description1{
-    color: #e33394;
+    color: #0f0e0f;
     font-size: 20px;
     font-family: roboto;
 }
@@ -63,17 +63,17 @@
     border-radius: 8px;
     border-width: 0px;
     font-size: 28px;
-    background-color: #4b6cc1;
-    color: #ffffff;
+    background-color: #57be1b;
+    color: #c52828;
     margin-bottom: 120px;
     padding: 10px;
 }
 .portfolio-website-aboutme {
-    background-color: #323f4b;
+    background-color: #562fb1;
 }
 
 .sec-main-heading {
-    color: #ffffff;
+    color: #f0ecec;
     font-size: 38px;
     font-weight: bold;
     font-family: roboto;
@@ -82,7 +82,7 @@
 .aboutme-description {
     font-size: 18px;
     font-family: roboto;
-    color: #cdd0d4;
+    color: #d4cdd2;
 }
 .aboutme-education{
     color: #ffffff;
@@ -136,7 +136,7 @@
     background-color: #323f4b;
 }
 .project-container{
-    color:#77c5df;
+    color:#77df96;
     border-style:dashed;
     padding:10px;
     margin:10px;
@@ -151,7 +151,7 @@
     font-family:roboto;
 }
 .portfolio-contact-me{
-    background-color:#77c5df;
+    background-color:#77df96;
     text-align:center;
     font-family:roboto;
 }
@@ -162,3 +162,5 @@
 .icons{
     color:#ffffff
 }
+
+
